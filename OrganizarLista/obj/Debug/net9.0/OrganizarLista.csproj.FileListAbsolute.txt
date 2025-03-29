@@ -1,0 +1,15 @@
+D:\Estudos\TI\Programação\Linguagens\C#\OrganizarLista\bin\Debug\net9.0\OrganizarLista.exe
+D:\Estudos\TI\Programação\Linguagens\C#\OrganizarLista\bin\Debug\net9.0\OrganizarLista.deps.json
+D:\Estudos\TI\Programação\Linguagens\C#\OrganizarLista\bin\Debug\net9.0\OrganizarLista.runtimeconfig.json
+D:\Estudos\TI\Programação\Linguagens\C#\OrganizarLista\bin\Debug\net9.0\OrganizarLista.dll
+D:\Estudos\TI\Programação\Linguagens\C#\OrganizarLista\bin\Debug\net9.0\OrganizarLista.pdb
+D:\Estudos\TI\Programação\Linguagens\C#\OrganizarLista\obj\Debug\net9.0\OrganizarLista.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\TI\Programação\Linguagens\C#\OrganizarLista\obj\Debug\net9.0\OrganizarLista.AssemblyInfoInputs.cache
+D:\Estudos\TI\Programação\Linguagens\C#\OrganizarLista\obj\Debug\net9.0\OrganizarLista.AssemblyInfo.cs
+D:\Estudos\TI\Programação\Linguagens\C#\OrganizarLista\obj\Debug\net9.0\OrganizarLista.csproj.CoreCompileInputs.cache
+D:\Estudos\TI\Programação\Linguagens\C#\OrganizarLista\obj\Debug\net9.0\OrganizarLista.sourcelink.json
+D:\Estudos\TI\Programação\Linguagens\C#\OrganizarLista\obj\Debug\net9.0\OrganizarLista.dll
+D:\Estudos\TI\Programação\Linguagens\C#\OrganizarLista\obj\Debug\net9.0\refint\OrganizarLista.dll
+D:\Estudos\TI\Programação\Linguagens\C#\OrganizarLista\obj\Debug\net9.0\OrganizarLista.pdb
+D:\Estudos\TI\Programação\Linguagens\C#\OrganizarLista\obj\Debug\net9.0\OrganizarLista.genruntimeconfig.cache
+D:\Estudos\TI\Programação\Linguagens\C#\OrganizarLista\obj\Debug\net9.0\ref\OrganizarLista.dll
