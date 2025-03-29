@@ -1,11 +1,13 @@
 ﻿using Calculadora.Calculadora;
+using Calculadora.Continuar;
 
 namespace Calculadora
 {
     class Program 
     {
-        static void Main()
+        public static void Main()
             {
+                Continua.MenuC();
                 Console.WriteLine("Digite o primeiro número:");
                 double n1 = Convert.ToInt32(Console.ReadLine());
 

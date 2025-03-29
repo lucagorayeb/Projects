@@ -43,7 +43,7 @@ namespace Calculadora.Calculadora
                     res = RaizNewton(n1, n2);
                     break;
 
-                case "p": 
+                case "^": 
                     res = Potencia(n1, n2);
                     break;
 
