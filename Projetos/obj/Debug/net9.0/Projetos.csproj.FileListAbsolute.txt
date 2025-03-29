@@ -1,0 +1,15 @@
+D:\Estudos\TI\Programação\Linguagens\C#\Projetos\bin\Debug\net9.0\Projetos.exe
+D:\Estudos\TI\Programação\Linguagens\C#\Projetos\bin\Debug\net9.0\Projetos.deps.json
+D:\Estudos\TI\Programação\Linguagens\C#\Projetos\bin\Debug\net9.0\Projetos.runtimeconfig.json
+D:\Estudos\TI\Programação\Linguagens\C#\Projetos\bin\Debug\net9.0\Projetos.dll
+D:\Estudos\TI\Programação\Linguagens\C#\Projetos\bin\Debug\net9.0\Projetos.pdb
+D:\Estudos\TI\Programação\Linguagens\C#\Projetos\obj\Debug\net9.0\Projetos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\TI\Programação\Linguagens\C#\Projetos\obj\Debug\net9.0\Projetos.AssemblyInfoInputs.cache
+D:\Estudos\TI\Programação\Linguagens\C#\Projetos\obj\Debug\net9.0\Projetos.AssemblyInfo.cs
+D:\Estudos\TI\Programação\Linguagens\C#\Projetos\obj\Debug\net9.0\Projetos.csproj.CoreCompileInputs.cache
+D:\Estudos\TI\Programação\Linguagens\C#\Projetos\obj\Debug\net9.0\Projetos.sourcelink.json
+D:\Estudos\TI\Programação\Linguagens\C#\Projetos\obj\Debug\net9.0\Projetos.dll
+D:\Estudos\TI\Programação\Linguagens\C#\Projetos\obj\Debug\net9.0\refint\Projetos.dll
+D:\Estudos\TI\Programação\Linguagens\C#\Projetos\obj\Debug\net9.0\Projetos.pdb
+D:\Estudos\TI\Programação\Linguagens\C#\Projetos\obj\Debug\net9.0\Projetos.genruntimeconfig.cache
+D:\Estudos\TI\Programação\Linguagens\C#\Projetos\obj\Debug\net9.0\ref\Projetos.dll

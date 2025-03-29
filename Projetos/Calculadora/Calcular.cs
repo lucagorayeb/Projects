@@ -43,6 +43,10 @@ namespace Calculadora.Calculadora
                     res = RaizNewton(n1, n2);
                     break;
 
+                case "p": 
+                    res = Potencia(n1, n2);
+                    break;
+
                 default:
                     Console.WriteLine("ERRO");
                     break;
@@ -60,6 +64,15 @@ namespace Calculadora.Calculadora
                     r = ((n - 1) * r + x / Math.Pow(r, n - 1)) / n;
                 }
             return r;
+            }
+
+            static double Potencia(double x, double n){
+                double rf = 1;
+                for (int i = 0; i < n; i++){
+                    rf *= x;
+                }
+
+                return rf;
             }
         
     } 
