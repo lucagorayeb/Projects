@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrganizarLista")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2869b6bdea704652aefa0b5539b21689571395ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c024f844a1c908ca823782bde8dd4551c79ecba1")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrganizarLista")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrganizarLista")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

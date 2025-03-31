@@ -6,7 +6,7 @@ namespace Calculadora.Continuar
 
   public class Continua
     {
-        public static void Continuar(double res)
+        public static void Continuar(double res) //Função que verifica a continuidade da operação 
         {
             MenuR();
             string? r;
@@ -42,7 +42,7 @@ namespace Calculadora.Continuar
             }
         }
 
-            public static void MenuC()
+            public static void MenuC()//Função que cria um menu mostrando as operações que a calculadora executa
             {   
                 Console.WriteLine("------------------");
                 Console.WriteLine("\tMENU ");
@@ -56,7 +56,7 @@ namespace Calculadora.Continuar
                 Console.WriteLine("Digite 'r' para raiz\n\n");
             }
 
-            static void MenuR(){
+            static void MenuR(){//Função que cria um menu mostrando as opções depois de se obter o resultado da operação
 
                 Console.WriteLine("------------------");
                 Console.WriteLine("\tMENU ");

@@ -5,7 +5,7 @@ namespace Calculadora.Calculadora
 {
     class Calcular
     {
-         public static void Calculadora(double n1, double n2, string? op)
+         public static void Calculadora(double n1, double n2, string? op)//Função que exerce os calculos 
         {
             if(n2==0){
                 Console.WriteLine("Digite a operação: ");
@@ -58,7 +58,7 @@ namespace Calculadora.Calculadora
         }
 
             
-            static double RaizNewton(double x, double n, double precisao = 1e-7) {
+            static double RaizNewton(double x, double n, double precisao = 1e-7) {//Função que faz o calculo específico de raiz
                 double r = x / n;  // Chute inicial
                 while (Math.Abs(Math.Pow(r, n) - x) > precisao) {
                     r = ((n - 1) * r + x / Math.Pow(r, n - 1)) / n;
@@ -66,7 +66,7 @@ namespace Calculadora.Calculadora
             return r;
             }
 
-            static double Potencia(double x, double n){
+            static double Potencia(double x, double n){//Calcula a pontência
                 double rf = 1;
                 for (int i = 0; i < n; i++){
                     rf *= x;
