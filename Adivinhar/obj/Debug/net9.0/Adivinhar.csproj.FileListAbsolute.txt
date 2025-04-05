@@ -1,0 +1,15 @@
+D:\Estudos\TI\Programação\Linguagens\C#\Adivinhar\bin\Debug\net9.0\Adivinhar.exe
+D:\Estudos\TI\Programação\Linguagens\C#\Adivinhar\bin\Debug\net9.0\Adivinhar.deps.json
+D:\Estudos\TI\Programação\Linguagens\C#\Adivinhar\bin\Debug\net9.0\Adivinhar.runtimeconfig.json
+D:\Estudos\TI\Programação\Linguagens\C#\Adivinhar\bin\Debug\net9.0\Adivinhar.dll
+D:\Estudos\TI\Programação\Linguagens\C#\Adivinhar\bin\Debug\net9.0\Adivinhar.pdb
+D:\Estudos\TI\Programação\Linguagens\C#\Adivinhar\obj\Debug\net9.0\Adivinhar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\TI\Programação\Linguagens\C#\Adivinhar\obj\Debug\net9.0\Adivinhar.AssemblyInfoInputs.cache
+D:\Estudos\TI\Programação\Linguagens\C#\Adivinhar\obj\Debug\net9.0\Adivinhar.AssemblyInfo.cs
+D:\Estudos\TI\Programação\Linguagens\C#\Adivinhar\obj\Debug\net9.0\Adivinhar.csproj.CoreCompileInputs.cache
+D:\Estudos\TI\Programação\Linguagens\C#\Adivinhar\obj\Debug\net9.0\Adivinhar.sourcelink.json
+D:\Estudos\TI\Programação\Linguagens\C#\Adivinhar\obj\Debug\net9.0\Adivinhar.dll
+D:\Estudos\TI\Programação\Linguagens\C#\Adivinhar\obj\Debug\net9.0\refint\Adivinhar.dll
+D:\Estudos\TI\Programação\Linguagens\C#\Adivinhar\obj\Debug\net9.0\Adivinhar.pdb
+D:\Estudos\TI\Programação\Linguagens\C#\Adivinhar\obj\Debug\net9.0\Adivinhar.genruntimeconfig.cache
+D:\Estudos\TI\Programação\Linguagens\C#\Adivinhar\obj\Debug\net9.0\ref\Adivinhar.dll

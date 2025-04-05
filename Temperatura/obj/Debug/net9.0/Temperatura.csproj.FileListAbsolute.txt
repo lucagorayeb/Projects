@@ -1,0 +1,15 @@
+D:\Estudos\TI\Programação\Linguagens\C#\Temperatura\bin\Debug\net9.0\Temperatura.exe
+D:\Estudos\TI\Programação\Linguagens\C#\Temperatura\bin\Debug\net9.0\Temperatura.deps.json
+D:\Estudos\TI\Programação\Linguagens\C#\Temperatura\bin\Debug\net9.0\Temperatura.runtimeconfig.json
+D:\Estudos\TI\Programação\Linguagens\C#\Temperatura\bin\Debug\net9.0\Temperatura.dll
+D:\Estudos\TI\Programação\Linguagens\C#\Temperatura\bin\Debug\net9.0\Temperatura.pdb
+D:\Estudos\TI\Programação\Linguagens\C#\Temperatura\obj\Debug\net9.0\Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\TI\Programação\Linguagens\C#\Temperatura\obj\Debug\net9.0\Temperatura.AssemblyInfoInputs.cache
+D:\Estudos\TI\Programação\Linguagens\C#\Temperatura\obj\Debug\net9.0\Temperatura.AssemblyInfo.cs
+D:\Estudos\TI\Programação\Linguagens\C#\Temperatura\obj\Debug\net9.0\Temperatura.csproj.CoreCompileInputs.cache
+D:\Estudos\TI\Programação\Linguagens\C#\Temperatura\obj\Debug\net9.0\Temperatura.sourcelink.json
+D:\Estudos\TI\Programação\Linguagens\C#\Temperatura\obj\Debug\net9.0\Temperatura.dll
+D:\Estudos\TI\Programação\Linguagens\C#\Temperatura\obj\Debug\net9.0\refint\Temperatura.dll
+D:\Estudos\TI\Programação\Linguagens\C#\Temperatura\obj\Debug\net9.0\Temperatura.pdb
+D:\Estudos\TI\Programação\Linguagens\C#\Temperatura\obj\Debug\net9.0\Temperatura.genruntimeconfig.cache
+D:\Estudos\TI\Programação\Linguagens\C#\Temperatura\obj\Debug\net9.0\ref\Temperatura.dll
