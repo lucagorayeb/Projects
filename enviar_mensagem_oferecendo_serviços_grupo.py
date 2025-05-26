@@ -10,12 +10,12 @@ message = f'''Me chamo Luca Siqueira Assis Gorayeb de Mello e estou oferecendo m
 def chamar_tab(quantidade):
     for n in range(quantidade):
         pg.press('tab')
-        time.sleep(2)
+        time.sleep(5)
 
 # Função que executar o comando enter
 def chamar_enter():
     pg.press('enter')
-    time.sleep(2)
+    time.sleep(5)
 
 # Função que abre o whatsApp e envia a mensagem 
 def mandar_mensagem_no_whatsapp():
